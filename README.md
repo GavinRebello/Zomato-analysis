@@ -1,6 +1,6 @@
 # Zomato-analysis
  Analyzing Restaurant Trends with Zomato Data!
-### Dashboard Link : <iframe title="zomato analysis" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=65e3e35a-8385-4f12-922b-938772f5f791&autoAuth=true&ctid=8bb5eb58-6580-4d23-8008-c60e1928d208" frameborder="0" allowFullScreen="true"></iframe>
+### Dashboard Link :"https://app.powerbi.com/reportEmbed?reportId=65e3e35a-8385-4f12-922b-938772f5f791&autoAuth=true&ctid=8bb5eb58-6580-4d23-8008-c60e1928d208" 
 
 ## project breakdown
  I worked on a data analysis project using Excel, MySQL, and Power BI to explore restaurant trends and customer preferences in Bengaluru.
